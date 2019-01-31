@@ -1,0 +1,34 @@
+.task_page, .task_2_page, .task_1_page{
+    margin-top: 60px;
+}
+
+.task_2_page span{
+    color: red;
+}
+
+.task_2_page .circle{
+    width: 10px;
+    height: 10px;
+    background-color: red;
+    border-radius: 20px;
+    margin-right: 5px;
+    float: left;
+}
+
+.task_2_page .panel-footer{
+    line-height: 9px;
+}
+
+.panel-body .img{
+    text-align: center;
+}
+
+.panel-body h3{
+    text-align: center;
+}
+
+.form-inline{
+    float: right;
+    line-height: 3;
+}
+

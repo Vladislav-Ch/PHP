@@ -1,0 +1,16 @@
+.task_page, .task_page1{
+    margin-top: 60px;
+}
+
+.nav-btn{
+    float: right;
+    line-height: 46px;
+}
+
+.task_page1 .panel-body img{
+    height: 100px;
+}
+
+.btn{
+    width: 100%;
+}
